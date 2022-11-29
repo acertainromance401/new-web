@@ -1,2 +1,2 @@
 # new-web
-<a href="plz.html">click here</a>
+<a href="plz1.html">click here</a>
