@@ -1,2 +1,9 @@
 # new-web
-<a href="plz1.html">click here</a>
+<!doctype html>
+<meta charset="utf-8">
+<html>
+  <head><title>web1</title></head>
+  <body>
+    <h1><a href="plz1.html">click here</a></h1>
+  </body>
+</html>
